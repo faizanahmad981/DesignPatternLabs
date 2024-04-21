@@ -1,0 +1,7 @@
+com\contradodigital\abstractfactory\Shape.class
+com\contradodigital\abstractfactory\CircleFactory.class
+com\contradodigital\abstractfactory\SquareFactory.class
+com\contradodigital\abstractfactory\AbstractFactory.class
+com\contradodigital\abstractfactory\Square.class
+com\contradodigital\abstractfactory\Main.class
+com\contradodigital\abstractfactory\Circle.class
