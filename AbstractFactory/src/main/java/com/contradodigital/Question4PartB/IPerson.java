@@ -7,7 +7,7 @@ package com.contradodigital.Question4PartB;
 
 /**
  *
- * @author techenclavecomputers
+ * @author Faizan
  */
 public interface IPerson {
     String getName();

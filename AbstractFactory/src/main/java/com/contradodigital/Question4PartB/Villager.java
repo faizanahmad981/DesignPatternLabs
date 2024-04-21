@@ -8,7 +8,7 @@ import com.contradodigital.Question4PartB.IPerson;
 
 /**
  *
- * @author techenclavecomputers
+ * @author Faizan
  */
 public class Villager implements IPerson {
     public String getName() {
